@@ -1,0 +1,15 @@
+[
+  {
+    "file": "main.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "main.cpp",
+      "-o",
+      "solution"
+    ],
+    "directory": "/Users/donovan/dev/euler/pr-014",
+    "output": "solution"
+  }
+]

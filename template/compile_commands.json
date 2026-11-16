@@ -1,0 +1,17 @@
+[
+  {
+    "file": "main.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++20",
+      "-Wall",
+      "-O2",
+      "-I/opt/homebrew/opt/gmp/include",
+      "main.cpp",
+      "-o",
+      "solution"
+    ],
+    "directory": "/Users/donovan/dev/euler/template",
+    "output": "solution"
+  }
+]
